@@ -1,0 +1,2 @@
+pkg upgrade && update
+pkg install git neofetch python2 -y
